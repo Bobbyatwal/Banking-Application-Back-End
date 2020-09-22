@@ -1,4 +1,4 @@
-# Developed and implemented a Web-Based Banking Application using Javascript, HTML5, CSS3, React JS, Node JS, Express JS, PostgreSQL, Heroku, Github, and Selenium to provide functionality: 
+# Developed Web-Based Banking Application using Javascript, HTML5, CSS3, React JS, Node JS, Express JS, PostgreSQL, Heroku, Github, and Selenium to provide functionality: 
 Process account open/close for both customer and bank managers
 Bank manager - distinct dashboard page to query/generate reports based on customer account attributes
 Customer accounts – personal dashboard for checking and saving accounts 
