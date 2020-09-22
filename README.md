@@ -12,7 +12,7 @@ Account money transfer to/from internal and external accounts utilizing PostgreS
 
 Cash deposit/withdraw via imaginary ATM and check deposit via image 
 
-Set up automated billing API with customized payment dates 
+Automated billing API with customized payment dates 
 
 Google Maps API for Chase ATM locations given a starting address 
 
