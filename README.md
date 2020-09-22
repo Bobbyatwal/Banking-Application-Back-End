@@ -3,6 +3,7 @@
 
 # Developed with Full Stack Development tools: React JS, PostgreSQL, Node JS, Javascript, HTML5, CSS3, Express JS, Heroku, Github, and Selenium.
 
+----------------------------------------------------------------------------------------
 Functionality: 
 
 
